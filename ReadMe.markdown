@@ -9,6 +9,6 @@ This is a straightforward project that represents the minimum setup to get going
 
 Not bad, eh? Why not clone/fork this project and get started on your own F# project?
 
-Please contact Scott Parker with any questions or concerns. You can reach me by sending a message to github.com/citizenparker, or via my blog at http://citizenparker.com
+Please contact Scott Parker with any questions or concerns. You can reach me by sending a message to [github.com/citizenparker](http://github.com/citizenparker), or via my blog at [citizenparker.com](http://citizenparker.com).
 
 Thanks!
